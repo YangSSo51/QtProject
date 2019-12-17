@@ -1,8 +1,7 @@
 ##  QtProject
 __양소영,이상현__
 
-![image](https://user-images.githubusercontent.com/48993188/71005967-ec4afd00-2127-11ea-9a03-0d06f18b6621.png)
-![screen](https://user-images.githubusercontent.com/48993188/71007423-5369b100-212a-11ea-87e5-553996c1d92d.jpg)
+<img src="https://user-images.githubusercontent.com/48993188/71005967-ec4afd00-2127-11ea-9a03-0d06f18b6621.png" width="50%"><img src="https://user-images.githubusercontent.com/48993188/71007707-cc690880-212a-11ea-819c-40ecbe553181.jpg" width="50%">
 
 ### 0. 개요
 ------------------------------
